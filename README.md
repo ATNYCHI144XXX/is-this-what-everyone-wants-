@@ -7,7 +7,7 @@ Status: ACTIVE NATIONAL SECURITY ASSET (CROWN OMEGA)
 Date: February 16, 2026
 1. THE LEGAL LICENSE (RESTRICTED RIGHTS)
 Copyright 2026 K Systems and Securities, LLC.
-Licensed under the Apache License 2.0 with the following MANDATORY ADDENDUM:
+Licensed under the Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for the full license text and special free-use provisions.
 > NOTICE: All technical data, K-Math kernels, and resonance logic contained herein were developed exclusively at private expense. The U.S. Government's rights to use, modify, or disclose this data are RESTRICTED as set forth in DFARS 252.227-7013. Unauthorized use by third-party contractors (including Torch Technologies) without a signed CORSL Activation and formal compensation is a violation of federal law.
 > 
 2. TECHNICAL ASSET LOG (THE MATH)
